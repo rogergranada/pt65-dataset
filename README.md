@@ -2,7 +2,7 @@
 
 This repository contains lists with word-pairs used in the PROPOR 2014 paper entitled "Comparing Semantic Relatedness between Word Pairs in Portuguese Using Wikipedia.". The repository contains three lists, named [RG65](rg65.txt) for the English version, created by Rubenstein and Goodenough [1](#References); [JI65](ji65.txt) for the French version, created by Joubarne and Inkpen [2](#References); and [PT65](pt65.txt) for the Portuguese version created by Granada *et al* [3](#How-to-cite).
 
-In this dataset, all word pairs were manually judged by 50 undergraduate and graduate students who were asked to evaluate each pair according with their semantic relatedness. Evaluation scores range from 0 to 4 and the results were averaged over all 50 subjects. The average agreement among subjects using Pearson scores was $r$=.71 with a standard deviation $\sigma$= .13. Below we present all 65 pairs of words followed by their score.
+In this dataset, all word pairs were manually judged by 50 undergraduate and graduate students who were asked to evaluate each pair according with their semantic relatedness. Evaluation scores range from 0 to 4 and the results were averaged over all 50 subjects. The average agreement among subjects using Pearson scores was *r*=.71 with a standard deviation &sigma;= .13. Below we present all 65 pairs of words followed by their score.
 
 | word_1      | word_2      | score |
 | ----------- | ----------- | ----- |
