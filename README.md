@@ -101,5 +101,5 @@ This study was partially supported by the CAPES-COFECUB Cameleon project number 
 ---
 ## References
 
-[1] Rubenstein, H., Goodenough, J.B.: [Contextual correlates of synonymy](http://doi.acm.org/10.1145/365628.365657). Communications of the ACM 8(10), pp. 627–633, 1965.
+[1] Rubenstein, H., Goodenough, J.B.: [Contextual correlates of synonymy](http://doi.acm.org/10.1145/365628.365657). Communications of the ACM 8(10), pp. 627–633, 1965.  
 [2] Joubarne, C., Inkpen, D.: [Comparison of Semantic Similarity for Different Languages Using the Google N-gram Corpus and Second-Order Co-occurrence Measures](http://dl.acm.org/citation.cfm?id=2018192.2018218). In: Proceedings of the 24th Canadian Conference on Advances in Artificial Intelligence (Canadian AI'11), pp. 216-221, 2011.
