@@ -4,7 +4,7 @@ This repository contains lists with word-pairs used in the PROPOR 2014 paper ent
 
 In this dataset, all word pairs were manually judged by 50 undergraduate and graduate students who were asked to evaluate each pair according with their semantic relatedness. Evaluation scores range from 0 to 4 and the results were averaged over all 50 subjects. The average agreement among subjects using Pearson scores was *r* = .71 with a standard deviation &sigma; = .13. Below we present all 65 pairs of words followed by their score.
 
-| word_1      | word_2      | score |
+| word 1      | word 2      | score |
 | ----------- | ----------- | ----- |
 | cordão      | sorriso     | 0.26  |
 | galo        | viagem      | 0.14  |
